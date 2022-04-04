@@ -129,7 +129,7 @@ Il ne nous reste plus qu'à utiliser l'éditeur Hex, pour enlever toute la parti
 
 ![selected](https://user-images.githubusercontent.com/16509773/161456160-21ee4cdb-95eb-47fd-b783-4be10a72cbaf.jpg)
 
-Si votre sélection est bonne, vous devriez avoir enlevé environ 12 000 bytes au fichier.
+Si votre sélection est bonne, vous devriez avoir enlevé environ 12 xxx bytes au fichier.
 
 Ceci vous permettra de garder la signature de début du fichier .PNG et la signature de fin, pour générer ce fichier.
 
