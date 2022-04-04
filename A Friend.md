@@ -2,7 +2,7 @@
 Un write-up pour le Challenge 'A Friend' du CTF d'Avril 2022 (CTF débutant).
 
 ## A friend - Description générale :
-Défi catégorie d'investigation
+Défi catégorie d'investigation/Stéganographie
 Outils utilisés : Hex Editor, BinWalk, CyberChef.
 
 ### Pourquoi c'est intéressant ?
