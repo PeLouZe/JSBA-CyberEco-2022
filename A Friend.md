@@ -153,7 +153,6 @@ Pauvres petits ils sont pris au Pet shop...
 
 Voici quelques unes des chansons qui m'ont motivés pendant ce défi:
 
-https://www.youtube.com/watch?v=mP0TVptLDQE
 
 https://www.youtube.com/watch?v=XhepwtKR5lg
 
